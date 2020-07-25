@@ -1,18 +1,18 @@
 # PointCloudRegistration
 
-* Introduction
+# Introduction
 This Program is the toy system implementation of a point cloud alignment algorithm using iterative closest point algorithm. 
 
-* Parameterization
+# Parameterization
 I use Hamilton quaternion for rotation parameterization.
 
-* Usage
+# Usage
 Press 'space' for a new iteration.
 
-* Environment
+# Environment
 + Ubuntu 18.04
 + PCL 1.11
 + Eigen 3.3.4
 
-* Reference
-* http://pointclouds.org/documentation/tutorials/interactive_icp.html#interactive-icp
+# Reference
+http://pointclouds.org/documentation/tutorials/interactive_icp.html#interactive-icp
